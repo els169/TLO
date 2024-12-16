@@ -1,0 +1,3 @@
+const SHEET_ID = "1vS5tI72dNCGLRJlqGc2U2NhkYo3xQdoh5dUVAH8EtUm6vzspQUQd6bxS3tDcXHYBbL0d2DbVDv2U8QK"; // Your Sheet ID
+const API_KEY = "YOUR_API_KEY"; // Replace with your actual API key
+const RANGE = "Sheet1"; // Use your sheet's tab name if different
